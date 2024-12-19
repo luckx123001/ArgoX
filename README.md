@@ -74,7 +74,7 @@
 ## ArgoX for VPS 运行脚本:
 
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/argox/main/argox.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/luckx12301/argox/main/argox.sh)
 ```
 
   | Option 参数 | Remark 备注 |
